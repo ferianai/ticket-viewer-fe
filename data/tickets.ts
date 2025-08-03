@@ -1,0 +1,73 @@
+// data/tickets.ts
+export const tickets = [
+    {
+        id: 1,
+        eventName: "DWP 2025",
+        location: "Jakarta",
+        time: "2025-08-31T20:00:00Z",
+        isUsed: false,
+    },
+    {
+        id: 2,
+        eventName: "Java Jazz 2025",
+        location: "Jakarta",
+        time: "2025-09-15T18:00:00Z",
+        isUsed: false,
+    },
+    {
+        id: 3,
+        eventName: "We The Fest",
+        location: "Bandung",
+        time: "2025-10-10T17:00:00Z",
+        isUsed: false,
+    },
+    {
+        id: 4,
+        eventName: "Soundrenaline",
+        location: "Bali",
+        time: "2025-09-05T19:30:00Z",
+        isUsed: false,
+    },
+    {
+        id: 5,
+        eventName: "Jakarta International Music Festival",
+        location: "Jakarta",
+        time: "2025-11-20T20:00:00Z",
+        isUsed: false,
+    },
+    {
+        id: 6,
+        eventName: "Summer Sonic",
+        location: "Tokyo",
+        time: "2025-07-25T18:00:00Z",
+        isUsed: true,
+    },
+    {
+        id: 7,
+        eventName: "Ultra Music Festival",
+        location: "Miami",
+        time: "2025-10-05T21:00:00Z",
+        isUsed: false,
+    },
+    {
+        id: 8,
+        eventName: "Coachella",
+        location: "California",
+        time: "2025-04-12T19:00:00Z",
+        isUsed: true,
+    },
+    {
+        id: 9,
+        eventName: "Lollapalooza",
+        location: "Chicago",
+        time: "2025-07-15T18:30:00Z",
+        isUsed: true,
+    },
+    {
+        id: 10,
+        eventName: "Glastonbury Festival",
+        location: "England",
+        time: "2025-06-28T20:00:00Z",
+        isUsed: false,
+    },
+];
