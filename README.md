@@ -100,6 +100,4 @@ This project is open-source and intended for educational purposes only.
 Made with ❤️ by \[Feriana]
 [GitHub](https://github.com/ferianai)
 
-```
-
-```
+---
