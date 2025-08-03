@@ -2,7 +2,6 @@ Sure! Here's a clean, professional `README.md` you can use for your **Ticket Vie
 
 ---
 
-```markdown
 # 🎟️ Ticket Viewer UI
 
 This is a frontend-only application that displays a list of event tickets with interactive features such as filtering, marking as used, and deletion. It is built using **Next.js**, **Tailwind CSS**, and **shadcn/ui**, with data coming from a hardcoded JSON file.
@@ -21,6 +20,7 @@ This is a frontend-only application that displays a list of event tickets with i
 ---
 
 ## 📁 Project Structure
+
 ```
 
 ticket-viewer-fe/
@@ -35,9 +35,10 @@ ticket-viewer-fe/
 │ └── globals.css
 ├── tailwind.config.js
 ├── package.json
+├── LICENSE
 └── README.md
 
-````
+```
 
 ---
 
@@ -53,10 +54,11 @@ ticket-viewer-fe/
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/your-username/ticket-viewer-fe.git
 cd ticket-viewer-fe
-````
+```
 
 ### 2. Install dependencies
 
@@ -76,7 +78,14 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## 📸 Screenshot
 
-> _(You can add a screenshot or screen recording here — optional)_
+**View All tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-all.png)
+
+**View Used tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-used.png)
+
+**View Unused tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-unused.png)
 
 ---
 
@@ -88,8 +97,8 @@ This project is open-source and intended for educational purposes only.
 
 ## 🙋‍♀️ Author
 
-Made with ❤️ by \[Your Name]
-[GitHub](https://github.com/your-username)
+Made with ❤️ by \[Feriana]
+[GitHub](https://github.com/ferianai)
 
 ```
 
