@@ -78,6 +78,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 ## 📸 Screenshot
 
+### Desktop View
+
 **View All tickets**
 ![Ticket Viewer UI Screenshot](/public/ticket-view-all.png)
 
@@ -86,6 +88,17 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 
 **View Unused tickets**
 ![Ticket Viewer UI Screenshot](/public/ticket-view-unused.png)
+
+### Mobile View
+
+**View All tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-all-HP.png)
+
+**View Used tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-used-HP.png)
+
+**View Unused tickets**
+![Ticket Viewer UI Screenshot](/public/ticket-view-unused-HP.png)
 
 ---
 
