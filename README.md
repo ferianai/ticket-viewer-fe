@@ -1,7 +1,3 @@
-Sure! Here's a clean, professional `README.md` you can use for your **Ticket Viewer UI** frontend project.
-
----
-
 # 🎟️ Ticket Viewer UI
 
 This is a frontend-only application that displays a list of event tickets with interactive features such as filtering, marking as used, and deletion. It is built using **Next.js**, **Tailwind CSS**, and **shadcn/ui**, with data coming from a hardcoded JSON file.
@@ -92,12 +88,15 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to see the a
 ### Mobile View
 
 **View All tickets**
+
 ![Ticket Viewer UI Screenshot](/public/ticket-view-all-HP.png)
 
 **View Used tickets**
+
 ![Ticket Viewer UI Screenshot](/public/ticket-view-used-HP.png)
 
 **View Unused tickets**
+
 ![Ticket Viewer UI Screenshot](/public/ticket-view-unused-HP.png)
 
 ---
